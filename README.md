@@ -1,0 +1,2 @@
+# NewsApp
+JSONにより取得したニュースをTabViewで切り替えるニュースアプリ
